@@ -6,4 +6,3 @@
 * Caio
 * João
 * Joana 
-* Júlio 
